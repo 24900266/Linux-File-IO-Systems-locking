@@ -156,8 +156,7 @@ int main(int argc, char *argv[]) {
 ![Alt text](img07/1.png)
 
 
-![Alt text](img07/img2.png)g)
-
+![Alt text](img07/img2.png)
 
 
 # RESULT:
